@@ -28,6 +28,9 @@
 		"url": "https://github.com/ZiaRein/ZiaReinBypass/issues"
 	},
 	"homepage": "https://github.com/ZiaRein/ZiaReinBypass/issues",
+	"engines": {
+		"node": ">=22.x"
+	},
 	"dependencies": {
 		"@miraipr0ject/assets": "",
 		"@replit/database": "^2.0.2",
